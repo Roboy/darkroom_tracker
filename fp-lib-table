@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name NINA-W102)(type Legacy)(uri ${KIPRJMOD}/kicad_db/custom_modules/NINA-W102.mod)(options "")(descr ""))
+  (lib (name custom_lib)(type KiCad)(uri ${KIPRJMOD}/kicad_db/custom_modules/custom_lib.pretty)(options "")(descr ""))
+)
